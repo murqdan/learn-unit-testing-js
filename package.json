@@ -1,0 +1,19 @@
+{
+  "name": "learn-unit-testing",
+  "version": "1.0.0",
+  "description": "try jest framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murqdan/learn-unit-testing-js.git"
+  },
+  "author": "murqdan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/murqdan/learn-unit-testing-js/issues"
+  },
+  "homepage": "https://github.com/murqdan/learn-unit-testing-js#readme"
+}
