@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/murqdan/learn-unit-testing-js/issues"
   },
-  "homepage": "https://github.com/murqdan/learn-unit-testing-js#readme"
+  "homepage": "https://github.com/murqdan/learn-unit-testing-js#readme",
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
 }
