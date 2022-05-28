@@ -1,2 +1,3 @@
-# dependencies
 /node_modules
+/chapter4/3.unitTestingCart/simple-cart-app/.parcel-cache
+/chapter4/3.unitTestingCart/simple-cart-app/dist
