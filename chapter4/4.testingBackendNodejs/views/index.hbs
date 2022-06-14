@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title></title>
+</head>
+<body>
+  <h1>Express Commerce</h1>
+  <p>Selamat datang di express commerce!</p>
+  <hr />
+  <h2>Dipilih, dipilih, dipilih</h2>
+  <div>
+    {{#each items}}
+      <div style="margin-bottom: 4rem">
+        <h3>{{title}}</h3>
+        <img style="width: 512px" src={{imgurl}} />
+        <p>{{description}}</p>
+        <button style="padding: 1rem 2rem 1rem 2rem">🛒 Beli</button>
+      </div>
+    {{/each}}
+  </div>
+</body>
+</html>
